@@ -60,6 +60,7 @@ Disfruto construir soluciones creativas y mejorar cada día en el mundo del desa
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonMotha&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonMotha&layout=compact&theme=holi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonMotha&show_icons=true&theme=tok…
 
 ---
 
