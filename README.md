@@ -7,10 +7,12 @@
 <div>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonMotha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi&layout=compact" />
 </div>
-
+### Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,js,py,css,html,react,discord,bots,mongodb,nodejs,npm,notion,vscode" />
   </a>
 </p>
+
+
 
