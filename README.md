@@ -36,11 +36,11 @@ Disfruto construir soluciones creativas y mejorar cada día en el mundo del desa
   
 ## 📊 GitHub Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonMotha&show_icons=true&theme=tokyonight&hide_border=true&v=2&token=PAT_1)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonMotha&layout=compact&theme=tokyonight&hide_border=true&v=2&token=PAT_1)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=DonMotha&theme=tokyonight&hide_border=true&v=2&token=PAT_1)
+![GitHub Stats](https://github-readme-stats-mu-orpin.vercel.app/api?username=DonMotha&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=DonMotha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DonMotha&theme=tokyonight&hide_border=true)
 
 ---
 
